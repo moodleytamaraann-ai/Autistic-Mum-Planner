@@ -1,0 +1,8 @@
+# yaml-language-server: $schema=https://platform.claude.com/schemas/ant/beta/memory_store.json
+name: agency-records
+description: >-
+  The agency's operational system of record. One JSON file per record, grouped by
+  entity folder (people, properties, leads, viewings, transactions, documents, tasks),
+  plus an append-only activity log, a pending-approvals queue and an open
+  information-requests list. Record layout and rules are defined in
+  agency-playbook/conventions.md. Read that before creating or changing any record.
