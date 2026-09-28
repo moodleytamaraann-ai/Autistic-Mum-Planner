@@ -1,0 +1,7 @@
+# yaml-language-server: $schema=https://platform.claude.com/schemas/ant/beta/environment.json
+name: re-ops-cloud
+description: Cloud sandbox for the Real Estate Operations Manager.
+config:
+  type: cloud
+  networking:
+    type: unrestricted

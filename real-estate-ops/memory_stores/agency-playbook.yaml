@@ -1,0 +1,6 @@
+# yaml-language-server: $schema=https://platform.claude.com/schemas/ant/beta/memory_store.json
+name: agency-playbook
+description: >-
+  Management-owned operating rules: delegated authority, record conventions,
+  service levels and process checklists. Read-only for the agent. Treat it as
+  binding policy. Propose changes to management; never work around it.
